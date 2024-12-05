@@ -24,6 +24,5 @@
 
 <h3 align="left">My Statistics:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilusha-ranasingha&show_icons=true&locale=en&theme=dark" alt="dilusha-ranasingha" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilusha-ranasingha&theme=dark" alt="dilusha-ranasingha" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilusha-ranasingha&show_icons=true&locale=en&theme=dark" alt="dilusha-ranasingha" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilusha-ranasingha&theme=dark" alt="dilusha-ranasingha" />
 </p>
